@@ -43,16 +43,6 @@ npm run dev
 
 ---
 
-## 🖼️ Using Background Image
-
-Place your desired background image in the `public/images` folder as `bg.jpg`.  
-Update `pages/index.tsx` to load the image via:
-
-```ts
-style={{ backgroundImage: "url('/images/bg.jpg')" }}
-```
-
----
 
 ## 📁 Project Structure
 
@@ -83,13 +73,12 @@ tsconfig.json        → TypeScript config
 - ❌ No dynamic CMS/content support — everything is static.
 - ❌ No contact form / API — only frontend.
 - ⚠️ If JavaScript fails, layout degrades gracefully but features like button icons may not show.
-- 🛠️ Background image may obscure text depending on brightness — overlay is added for clarity.
 
 ---
 
 ## ✨ Future Improvements
 
-- Add dynamic blog pages via MDX or CMS.
+- Add dynamic blog pages.
 - Integrate a contact form with backend (e.g. Formspree).
 - Add light/dark mode toggle.
 
@@ -98,4 +87,4 @@ tsconfig.json        → TypeScript config
 ## 💡 Credits
 
 Design inspired by provided UI mockup.  
-Built with ❤️ by [Your Name].
+Built with ❤️ by [Ria].
