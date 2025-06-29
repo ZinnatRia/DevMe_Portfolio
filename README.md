@@ -8,7 +8,7 @@ A clean and responsive personal portfolio website built with **Next.js** and **T
 
 ## 🚀 Live Preview
 
-> _Coming soon_ — Deploy to **Vercel** or your preferred platform.
+https://dev-me-portfolio.vercel.app/
 
 ---
 
