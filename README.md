@@ -2,6 +2,9 @@
 
 A clean and responsive personal portfolio website built with **Next.js** and **Tailwind CSS**.
 
+✅ Currently, the **Home** and **Portfolio** pages are functional and responsive.
+
+
 ---
 
 ## 🚀 Live Preview
